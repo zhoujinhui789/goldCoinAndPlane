@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/BackButtonSound.wav</file>
+        <file>res/BoardNode.png</file>
+        <file>res/Coin0001.png</file>
+        <file>res/Coin0002.png</file>
+        <file>res/Coin0003.png</file>
+        <file>res/Coin0004.png</file>
+        <file>res/Coin0005.png</file>
+        <file>res/Coin0006.png</file>
+        <file>res/Coin0007.png</file>
+        <file>res/Coin0008.png</file>
+        <file>res/ConFlipSound.wav</file>
+        <file>res/LevelCompletedDialogBg.png</file>
+        <file>res/LevelIcon.png</file>
+        <file>res/LevelWinSound.wav</file>
+        <file>res/MenuSceneBg.png</file>
+        <file>res/MenuSceneStartButton.png</file>
+        <file>res/OtherSceneBg.png</file>
+        <file>res/num1.png</file>
+        <file>res/TapButtonSound.wav</file>
+        <file>res/Title.png</file>
+        <file>plane/img_bg_level_2.jpg</file>
+        <file>plane/img_bg_level_3.jpg</file>
+        <file>plane/img_bg_level_4.jpg</file>
+        <file>plane/img_bg_level_5.jpg</file>
+        <file>res/play.png</file>
+        <file>res/s666.png</file>
+        <file>res/img-plane_1.png</file>
+        <file>res/img-plane_2.png</file>
+        <file>res/img-plane_3.png</file>
+        <file>res/img-plane_5.png</file>
+        <file>res/img-plane_7.png</file>
+        <file>res/bomb-2.png</file>
+        <file>res/bullet_1.png</file>
+        <file>res/bullet_3.png</file>
+        <file>res/bullet_6.png</file>
+        <file>res/bullet_7.png</file>
+        <file>res/bullet_8.png</file>
+        <file>res/bullet_11.png</file>
+        <file>res/bullet_14.png</file>
+        <file>res/hero.png</file>
+    </qresource>
+</RCC>
